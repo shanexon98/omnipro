@@ -5,7 +5,7 @@
 
 Este proyecto es una aplicación móvil desarrollada en Flutter, un framework de código abierto creado por Google que permite construir aplicaciones nativas para Android y iOS con un solo código base.
 
-En este proyecto, he utilizado varias características avanzadas de Flutter, usando el gestor de estados GETX el cual adjunto documentación argumentando por que se uso tal gestor, de igual manera se incluyeron widgets personalizados, llamados a API's externas, Scroll Infinito, etc.
+En este proyecto, he utilizado varias características avanzadas de Flutter, usando el gestor de estados GETX el cual adjunto documentación argumentando por que se uso tal gestor, de igual manera se incluyeron widgets personalizados, llamados a API's externas, Scroll Infinito, pruebas unitarias etc.
 
 https://github.com/CarLeonDev/state_managements?fbclid=IwAR10Mj_v8KnSPfY1qUjqWlOVfxu3Xd9tGLn1zZu3obeomqinVrFanIL2mxY
 
@@ -18,5 +18,6 @@ Una vez que haya configurado su entorno de desarrollo, puede ejecutar la aplicac
 Si encuentra algún problema o tiene alguna pregunta sobre el proyecto, no dude en ponerse en contacto conmigo. ¡Disfrute de la aplicación!
 
 
+![image](https://user-images.githubusercontent.com/70789896/221488669-47c22188-05da-4d13-b761-06a9c8bda3e2.png)
 
 
